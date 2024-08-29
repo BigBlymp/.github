@@ -12,7 +12,7 @@
 
 🍠 Yamfore is a decentralized, non-custodial lending protocol purpose-built on the Cardano blockchain, offering crypto-backed loans with no margin calls, no ongoing interest repayments, and indefinite loan terms.
 
-🧰 Simple PAB is a transaction building library for Cardano that simplifies the development process by abstracting the complexities of constructing transactions and interacting with smart contracts. By providing a straightforward interface, Simple PAB makes Cardano development more accessible and efficient.
+🧰 Simple PAB is a transaction building library for Cardano that simplifies the development process by abstracting the complexities of constructing transactions and interacting with smart contracts. 
 
 ❓ (Confidential) 
 
