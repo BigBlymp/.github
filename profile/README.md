@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/bigblymp.png" alt="Profile Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/648f1c87-07bc-49d6-85a9-783c2be58ce5"/>
   <h1><strong>Big Blymp</strong></h1>
 </div>
 <div align="center">
