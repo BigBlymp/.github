@@ -12,7 +12,7 @@
 
 🍠 Yamfore is a decentralized, non-custodial lending protocol purpose-built on the Cardano blockchain, offering crypto-backed loans with no margin calls, no ongoing interest repayments, and indefinite loan terms.
 
-η Uyniboard is a general-purpose DeFi platform built on Cardano, providing a suite of products while simplifying complex interfaces into a safe, easy-to-use portal for all users.
+η Indytane is a general-purpose DeFi platform built on Cardano, providing a suite of products while simplifying complex interfaces into a safe, easy-to-use portal for all users.
 
 🪙 Obymare is a stablecoin solution built for Cardano, meticulously designed for the blockchain's unique eUTXO model. Its $OBYUSD stablecoin provides unparalleled stability through exclusive over-collateralization with ADA, offering a secure and stable digital asset within the Cardano ecosystem.
 
