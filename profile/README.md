@@ -5,7 +5,8 @@
 <p>Big Blymp is a blockchain development firm specializing in building decentralized finance (DeFi) solutions. We build custom DApps, developer tools, and actively contribute to open-source initiatives that advance permissionless blockchain technology.</p>
 
 ## Products
- <img src="https://github.com/user-attachments/assets/eeebd85f-7a85-40f5-864f-33887dbf60b6"/>
+ <img src="https://github.com/user-attachments/assets/3c6cc16a-4456-4c1b-876e-a98ce13d9f05"/>
+
 
 
 <div align="center" >  
