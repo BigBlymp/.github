@@ -14,7 +14,7 @@
 
 🍠 Yamfore is a decentralized, non-custodial lending protocol purpose-built on the Cardano blockchain, offering crypto-backed loans with no margin calls, no ongoing interest repayments, and indefinite loan terms.
 
-η OBYUSD is the native stablecoin of the Obymare protocol and a foundational asset within Cardano’s DeFi ecosystem. It’s built for smooth integration across yield protocols, lending markets, and liquidity pools, giving users multiple ways to earn returns while maintaining a stable peg and reliable store of value against the US dollar.
+η OBYUSD is Obymare's native stablecoin and a core asset in Cardano's DeFi ecosystem. Built for seamless integration with yield protocols, lending markets, & liquidity pools, it offers multiple earning opportunities while maintaining a stable USD peg.
 
 🪙 Obymare is a stablecoin solution built for Cardano, meticulously designed for the blockchain's unique eUTXO model. Its $OBYUSD stablecoin provides unparalleled stability through exclusive over-collateralization with ADA, offering a secure and stable digital asset within the Cardano ecosystem.
 
